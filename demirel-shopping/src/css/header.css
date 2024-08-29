@@ -1,0 +1,11 @@
+.info-header-social{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background-color: darkblue;
+    color: white;
+}
+
+.info-header-social a{
+    color: white;
+}
